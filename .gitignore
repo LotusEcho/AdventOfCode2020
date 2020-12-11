@@ -1,3 +1,5 @@
+# Input
+input/
 # Logs
 logs
 *.log
@@ -102,3 +104,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IntelliJ files
+.idea/
+*.iml
